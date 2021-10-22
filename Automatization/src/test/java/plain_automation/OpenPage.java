@@ -1,4 +1,4 @@
-package pages;
+package plain_automation;
 
 import org.junit.After;
 import org.junit.Before;
